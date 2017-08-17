@@ -25,7 +25,8 @@ SECRET_KEY = '*_z$h@at*3umget_zmaou*s6o$ue^vld!a6_d=kx&_^pedy$o&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1',
+'mambinta.pythonanywhere.com']
 
 
 # Application definition
